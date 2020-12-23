@@ -14,8 +14,16 @@ public class Basic100_1 {
 //	        System.out.print("Hello World");
 //	    }
 //	}
-
-	
-
+	//문제3. 아래 문장을 출력하세요.
+		//Hello
+		//World
+//	public class Main {
+//		public static void main(String[] args) {
+//		    System.out.print("Hello\nWorld");
+//		    }
+//	}
+	//문제4. 
+		System.out.println("\"Hellow World\"");
+		
 	}
 }
