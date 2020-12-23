@@ -31,8 +31,8 @@ public class ArrTest {
 //			System.out.println(arData2[i]);				
 //		}	
 		
-//		3. 갯수를 알 수 없는 빈 데이터의 배열을 만들어보세요.
-		int[] arData3=null;
+//		3. 연결되지 않고 갯수를 알 수 없는 빈 데이터의 배열을 만들어보세요.
+//		int[] arData3=null;
 		
 
 		
